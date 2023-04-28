@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ale Pantano!
-- 👀 I’m a full-stack developer (backend oriented)
-- 🌱 I’m currently learning Java backend development (microservices, keyclock security)
-- 💞️ I’m looking for my first job as a backend developer!
+- 👀 I’m a full-stack developer (backend oriented) and QA Tester
+- 🌱 I’m currently learning QA Automation
+- 💞️ I'm currently working as a freelance full-stack developer and also doing manual testing.
 - 📫 How to reach me: mapantano@gmail.com - https://www.linkedin.com/in/alejandra-pantano/
 - 👋 See you!
 
